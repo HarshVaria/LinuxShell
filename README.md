@@ -37,6 +37,8 @@ osproject/
 ```bash
 make
 ```
+<img width="1919" height="253" alt="image" src="https://github.com/user-attachments/assets/0728acf0-0d95-4382-a2a6-a7bd79339358" />
+
 
 ### Step 2: Run the shell
 ```bash
@@ -47,6 +49,8 @@ You'll see the prompt:
 ```
 shell@osproject$
 ```
+<img width="1919" height="52" alt="image" src="https://github.com/user-attachments/assets/6a8ddcde-6cf7-4669-b225-0e527933e18c" />
+
 
 ### Example commands:
 ```bash
@@ -57,6 +61,10 @@ ls > output.txt
 cat < input.txt | grep "word"
 sleep 5 &
 ```
+
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/adc59cfa-60be-43e4-9179-1a231e2bd13a" />
+
+
 
 ## OS Concepts Used
 
