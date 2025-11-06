@@ -105,6 +105,6 @@ This project demonstrates how a Unix-like shell works internally — combining s
 
 ---
 
-**Author:** Harsh Varia  
+**Author:** Harsh Varia & Panchal Prince
 **Language:** C  
 **Platform:** Linux / WSL
