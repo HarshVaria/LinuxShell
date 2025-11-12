@@ -64,10 +64,10 @@ gcc main_shell_server.c -o shell_server -ljson-c
 ./shell_server
 ```
 
-### Step 2: Launch the GUI
+### Step 2: Launch the GUI in virtual environment
 ```bash
-cd os_terminal_gui
-python3 os_terminal_gui.py
+source ~/pyqt_env/bin/activate
+python3 os_terminal_gui/os_terminal_gui.py
 ```
 
 The GUI will automatically connect to the backend server and allow you to execute Linux commands visually.
@@ -79,16 +79,13 @@ The GUI will automatically connect to the backend server and allow you to execut
 Below are snapshots of the GUI version of **LinuxShell** in action:
 
 #### ▶️ GUI Home
-<img width="900" alt="GUI Home" src="https://github.com/user-attachments/assets/YOUR-GUI-HOME-IMAGE-ID" />
+<img width="903" height="679" alt="image" src="https://github.com/user-attachments/assets/e983970d-c9df-4b46-a263-6c16195ba9a3" />
 
 #### 💻 Running Commands
-<img width="900" alt="Running Commands" src="https://github.com/user-attachments/assets/YOUR-GUI-COMMAND-IMAGE-ID" />
+<img width="902" height="680" alt="image" src="https://github.com/user-attachments/assets/2a57f75c-b5fe-4ace-a514-daa6e874f42a" />
 
-#### 🎨 Customization (Font / Theme)
-<img width="900" alt="Customization (Font / Theme)" src="https://github.com/user-attachments/assets/YOUR-GUI-FONT-IMAGE-ID" />
-
-#### 🌗 Dark Theme Example
-<img width="900" alt="Dark Theme Example" src="https://github.com/user-attachments/assets/YOUR-GUI-THEME-IMAGE-ID" />
+#### 🎨 Customization (Font / Dark Theme)
+<img width="904" height="679" alt="image" src="https://github.com/user-attachments/assets/fbd4b56b-fa52-4077-a61e-01015fb00a97" />
 
 ---
 
@@ -135,3 +132,4 @@ C, Python (PyQt5)
 Linux / WSL  
 
 ---
+
