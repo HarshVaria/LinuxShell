@@ -103,16 +103,6 @@ Below are snapshots of the GUI version of **LinuxShell** in action:
 
 ---
 
-## Example Screenshots (Additional Views)
-
-#### Terminal Output (Integrated Shell)
-<img width="900" alt="Terminal Output" src="https://github.com/user-attachments/assets/YOUR-GUI-OUTPUT-IMAGE-ID" />
-
-#### Process Visualization
-<img width="900" alt="Process Visualization" src="https://github.com/user-attachments/assets/YOUR-GUI-PROCESS-IMAGE-ID" />
-
----
-
 ## Outcome
 
 This version of **LinuxShell** provides both a **command-line** and a **graphical interface**, demonstrating:
@@ -132,4 +122,5 @@ C, Python (PyQt5)
 Linux / WSL  
 
 ---
+
 
